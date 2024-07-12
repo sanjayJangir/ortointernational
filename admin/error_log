@@ -1,0 +1,63 @@
+[27-Aug-2019 07:50:55 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 188
+[27-Aug-2019 07:51:33 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 188
+[28-Aug-2019 01:25:01 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 188
+[30-Aug-2019 00:12:54 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 90
+[30-Aug-2019 00:13:44 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 90
+[30-Aug-2019 00:14:52 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 188
+[30-Aug-2019 00:15:17 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 188
+[30-Aug-2019 00:15:38 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 188
+[30-Aug-2019 00:16:03 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 188
+[30-Aug-2019 00:16:34 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 188
+[30-Aug-2019 00:16:54 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 188
+[09-Sep-2019 00:11:48 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php:2) in /home2/webkeyco/public_html/2.0-demo/wear-ind/includes/dbsmain.inc.php on line 21
+[09-Sep-2019 00:12:18 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php:2) in /home2/webkeyco/public_html/2.0-demo/wear-ind/includes/dbsmain.inc.php on line 21
+[09-Sep-2019 00:14:03 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php:2) in /home2/webkeyco/public_html/2.0-demo/wear-ind/includes/dbsmain.inc.php on line 21
+[09-Sep-2019 00:14:08 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php:2) in /home2/webkeyco/public_html/2.0-demo/wear-ind/includes/dbsmain.inc.php on line 21
+[09-Sep-2019 00:14:51 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php:2) in /home2/webkeyco/public_html/2.0-demo/wear-ind/includes/dbsmain.inc.php on line 21
+[09-Sep-2019 00:28:26 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php:2) in /home2/webkeyco/public_html/2.0-demo/wear-ind/includes/dbsmain.inc.php on line 21
+[09-Sep-2019 01:06:57 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 92
+[09-Sep-2019 01:07:18 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 92
+[09-Sep-2019 01:07:58 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 92
+[09-Sep-2019 01:09:13 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 92
+[09-Sep-2019 01:11:29 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 92
+[09-Sep-2019 01:11:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 98
+[09-Sep-2019 01:11:59 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 92
+[09-Sep-2019 01:12:29 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 92
+[09-Sep-2019 01:15:46 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 92
+[09-Sep-2019 01:15:53 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 92
+[09-Sep-2019 01:16:22 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 92
+[09-Sep-2019 01:17:57 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 92
+[09-Sep-2019 01:19:56 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 92
+[09-Sep-2019 01:20:19 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 92
+[09-Sep-2019 01:20:37 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 92
+[18-Sep-2019 05:11:05 America/Chicago] PHP Warning:  exif_read_data(1636538c048770.png): File not supported in /home2/webkeyco/public_html/2.0-demo/wear-ind/includes/photoshop.php on line 1355
+[07-Oct-2019 05:17:42 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 209
+[04-Jan-2020 06:58:22 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/auto-creation-dynamic/admin/addedit-product.php on line 242
+[05-Jan-2020 04:51:15 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/auto-creation-dynamic/admin/addedit-product.php on line 123
+[09-Jan-2020 00:16:24 America/Chicago] PHP Warning:  exif_read_data(c656a3f4c8417a.png): File not supported in /home2/webkeyco/public_html/2.0-demo/auto-creation-dynamic/includes/photoshop.php on line 1355
+[09-Jan-2020 00:18:08 America/Chicago] PHP Warning:  exif_read_data(83cd4c7e345ce7.png): File not supported in /home2/webkeyco/public_html/2.0-demo/auto-creation-dynamic/includes/photoshop.php on line 1355
+[09-Jan-2020 00:18:08 America/Chicago] PHP Warning:  exif_read_data(83cd4c7e345ce7.png): File not supported in /home2/webkeyco/public_html/2.0-demo/auto-creation-dynamic/includes/photoshop.php on line 1355
+[09-Jan-2020 01:20:28 America/Chicago] PHP Warning:  exif_read_data(32ad38cfadf047.png): File not supported in /home2/webkeyco/public_html/2.0-demo/auto-creation-dynamic/includes/photoshop.php on line 1355
+[09-Jan-2020 01:20:28 America/Chicago] PHP Warning:  exif_read_data(32ad38cfadf047.png): File not supported in /home2/webkeyco/public_html/2.0-demo/auto-creation-dynamic/includes/photoshop.php on line 1355
+[09-Jan-2020 01:20:28 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/auto-creation-dynamic/admin/addedit-product.php on line 242
+[09-Jan-2020 01:36:28 America/Chicago] PHP Warning:  exif_read_data(34ef289a9065c4.png): File not supported in /home2/webkeyco/public_html/2.0-demo/auto-creation-dynamic/includes/photoshop.php on line 1355
+[09-Jan-2020 01:37:04 America/Chicago] PHP Warning:  exif_read_data(80f2706652b127.png): File not supported in /home2/webkeyco/public_html/2.0-demo/auto-creation-dynamic/includes/photoshop.php on line 1355
+[09-Jan-2020 01:37:04 America/Chicago] PHP Warning:  exif_read_data(80f2706652b127.png): File not supported in /home2/webkeyco/public_html/2.0-demo/auto-creation-dynamic/includes/photoshop.php on line 1355
+[09-Jan-2020 02:46:06 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/webkeyco/public_html/2.0-demo/auto-creation-dynamic/admin/addedit-product.php on line 632
+[09-Jan-2020 04:53:30 America/Chicago] PHP Fatal error:  Function name must be a string in /home2/webkeyco/public_html/2.0-demo/auto-creation-dynamic/admin/vehicle_model.php on line 63
+[09-Jan-2020 05:28:48 America/Chicago] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home2/webkeyco/public_html/2.0-demo/auto-creation-dynamic/admin/addedit-product.php on line 433
+[23-Jan-2020 06:14:00 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home2/webkeyco/public_html/2.0-demo/auto-creation-dynamic/admin/importData1.php on line 26
+[24-Jan-2020 22:17:21 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/auto-creation-dynamic/admin/addedit-product.php on line 243
+[28-Jan-2020 23:34:04 America/Chicago] PHP Warning:  exif_read_data(ad34b05f210551.jpg): File not supported in /home2/webkeyco/public_html/2.0-demo/sales-hub-dynamic/includes/photoshop.php on line 1355
+[28-Jan-2020 23:34:04 America/Chicago] PHP Warning:  exif_read_data(26c0566e428343.jpg): File not supported in /home2/webkeyco/public_html/2.0-demo/sales-hub-dynamic/includes/photoshop.php on line 1355
+[29-Jan-2020 01:57:40 America/Chicago] PHP Warning:  exif_read_data(347fcbcbb78a8b.jpg): File not supported in /home2/webkeyco/public_html/2.0-demo/sales-hub-dynamic/includes/photoshop.php on line 1355
+[29-Jan-2020 01:57:40 America/Chicago] PHP Warning:  exif_read_data(347fcbcbb78a8b.jpg): File not supported in /home2/webkeyco/public_html/2.0-demo/sales-hub-dynamic/includes/photoshop.php on line 1355
+[29-Jan-2020 03:58:03 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/sales-hub-dynamic/admin/add-stock.php on line 11
+[11-Apr-2022 18:31:22 UTC] PHP Warning:  require_once(includes/dbsmain.inc.php): failed to open stream: No such file or directory in /home/cambridge/public_html/sachin/admin/header.php on line 3
+[11-Apr-2022 18:31:22 UTC] PHP Fatal error:  require_once(): Failed opening required 'includes/dbsmain.inc.php' (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/cambridge/public_html/sachin/admin/header.php on line 3
+[11-Apr-2022 18:31:24 UTC] PHP Warning:  require_once(includes/dbsmain.inc.php): failed to open stream: No such file or directory in /home/cambridge/public_html/sachin/admin/header.php on line 3
+[11-Apr-2022 18:31:24 UTC] PHP Fatal error:  require_once(): Failed opening required 'includes/dbsmain.inc.php' (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/cambridge/public_html/sachin/admin/header.php on line 3
+[11-Apr-2022 18:31:25 UTC] PHP Warning:  require_once(includes/dbsmain.inc.php): failed to open stream: No such file or directory in /home/cambridge/public_html/sachin/admin/header.php on line 3
+[11-Apr-2022 18:31:25 UTC] PHP Fatal error:  require_once(): Failed opening required 'includes/dbsmain.inc.php' (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/cambridge/public_html/sachin/admin/header.php on line 3
+[15-Apr-2022 11:42:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/cambridge/public_html/sachin/admin/static_page_f.php on line 463
+[26-Apr-2022 11:43:36 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/cambridge/public_html/sachin/admin/testimonial-list.php on line 277
